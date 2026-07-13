@@ -40,7 +40,7 @@ function CreateTicket() {
           <br />
         </div>
          <div className="col-4 p-5 mt-2 mb-2">
-          <h4><i class="fa fa-plus-circle" aria-hidden="true"></i>Your Zeroda Account</h4>
+          <h4><i class="fa fa-plus-circle" aria-hidden="true"></i>Your TradeZen Account</h4>
              <a href="" style={{ textDecoration: "none", lineHeight: "2.5" }}>
             Login Credentials
           </a>
